@@ -1,0 +1,105 @@
+########################################
+# Program: Biostrings (version 2.66.0), a Bioconductor package
+# Rundate: Thu Feb  2 17:25:42 2023
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: PKD2_protein|Human|968aa
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 14.0
+# Extend_penalty: 4.0
+#
+# Length: 969
+# Identity:     968/969 (99.9%)
+# Similarity:    NA/969 (NA%)
+# Gaps:           1/969 (0.1%)
+# Score: 5021
+#
+#
+#=======================================
+
+PKD2_protein|Human|968aa   1 MVNSSRVQPQQPGDAKRPPAPRAPDPGRLMAGCAAVGASLAAPGGLCEQR     50
+                             ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                         1 MVNSSRVQPQQPGDAKRPPAPRAPDPGRLMAGCAAVGASLAAPGGLCEQR     50
+
+PKD2_protein|Human|968aa  51 GLEIEMQRIRQAAARDPPAGAAASPSPPLSSCSRQAWSRDNPGFEAEEEE    100
+                             ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                        51 GLEIEMQRIRQAAARDPPAGAAASPSPPLSSCSRQAWSRDNPGFEAEEEE    100
+
+PKD2_protein|Human|968aa 101 EEVEGEEGGMVVEMDVEWRPGSRRSAASSAVSSVGARSRGLGGYHGAGHP    150
+                             ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                       101 EEVEGEEGGMVVEMDVEWRPGSRRSAASSAVSSVGARSRGLGGYHGAGHP    150
+
+PKD2_protein|Human|968aa 151 SGRRRRREDQGPPCPSPVGGGDPLHRHLPLEGQPPRVAWAERLVRGLRGL    200
+                             ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                       151 SGRRRRREDQGPPCPSPVGGGDPLHRHLPLEGQPPRVAWAERLVRGLRGL    200
+
+PKD2_protein|Human|968aa 201 WGTRLMEESSTNREKYLKSVLRELVTYLLFLIVLCILTYGMMSSNVYYYT    250
+                             ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                       201 WGTRLMEESSTNREKYLKSVLRELVTYLLFLIVLCILTYGMMSSNVYYYT    250
+
+PKD2_protein|Human|968aa 251 RMMSQLFLDTPVSKTEKTNFKTLSSMEDFWKFTEGSLLDGLYWKMQPSNQ    300
+                             ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                       251 RMMSQLFLDTPVSKTEKTNFKTLSSMEDFWKFTEGSLLDGLYWKMQPSNQ    300
+
+PKD2_protein|Human|968aa 301 TEADNRSFIFYENLLLGVPRIRQLRVRNGSCSIPQDLRDEIKECYDVYSV    350
+                             ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                       301 TEADNRSFIFYENLLLGVPRIRQLRVRNGSCSIPQDLRDEIKECYDVYSV    350
+
+PKD2_protein|Human|968aa 351 SSEDRAPFGPRNGTAWIYTSEKDLNGSSHWGIIATYSGAGYYLDLSRTRE    400
+                             ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                       351 SSEDRAPFGPRNGTAWIYTSEKDLNGSSHWGIIATYSGAGYYLDLSRTRE    400
+
+PKD2_protein|Human|968aa 401 ETAAQVASLKKNVWLDRGTRATFIDFSVYNANINLFCVVRLLVEFPATGG    450
+                             ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                       401 ETAAQVASLKKNVWLDRGTRATFIDFSVYNANINLFCVVRLLVEFPATGG    450
+
+PKD2_protein|Human|968aa 451 VIPSWQFQPLKLIRYVTTFDFFLAACEIIFCFFIFYYVVEEILEIRIHKL    500
+                             ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                       451 VIPSWQFQPLKLIRYVTTFDFFLAACEIIFCFFIFYYVVEEILEIRIHKL    500
+
+PKD2_protein|Human|968aa 501 HYFRSFWNCLDVVIVVLSVVAIGINIYRTSNVEVLLQFLEDQNTFPNFEH    550
+                             ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                       501 HYFRSFWNCLDVVIVVLSVVAIGINIYRTSNVEVLLQFLEDQNTFPNFEH    550
+
+PKD2_protein|Human|968aa 551 LAYWQIQFNNIAAVTVFFVWIKLFKFINFNRTMSQLSTTMSRCAKDLFGF    600
+                             ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                       551 LAYWQIQFNNIAAVTVFFVWIKLFKFINFNRTMSQLSTTMSRCAKDLFGF    600
+
+PKD2_protein|Human|968aa 601 AIMFFIIFLAYAQLAYLVFGTQVDDFSTFQECIFTQFRIILGDINFAEIE    650
+                             ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                       601 AIMFFIIFLAYAQLAYLVFGTQVDDFSTFQECIFTQFRIILGDINFAEIE    650
+
+PKD2_protein|Human|968aa 651 EANRVLGPIYFTTFVFFMFFILLNMFLAIINDTYSEVKSDLAQQKAEMEL    700
+                             ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                       651 EANRVLGPIYFTTFVFFMFFILLNMFLAIINDTYSEVKSDLAQQKAEMEL    700
+
+PKD2_protein|Human|968aa 701 SDLIRKGYHKALVKLKLKKNTVDDISESLRQGGGKLNFDELRQDLKGKGH    750
+                             ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                       701 SDLIRKGYHKALVKLKLKKNTVDDISESLRQGGGKLNFDELRQDLKGKGH    750
+
+PKD2_protein|Human|968aa 751 TDAEIEAIFTKYDQDGDQELTEHEHQQMRDDLEKEREDLDLDHSSLPRPM    800
+                             ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                       751 TDAEIEAIFTKYDQDGDQELTEHEHQQMRDDLEKEREDLDLDHSSLPRPM    800
+
+PKD2_protein|Human|968aa 801 SSRSFPRSLDDSEEDDDEDSGHSSRRRGSISSGVSYEEFQVLVRRVDRME    850
+                             ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                       801 SSRSFPRSLDDSEEDDDEDSGHSSRRRGSISSGVSYEEFQVLVRRVDRME    850
+
+PKD2_protein|Human|968aa 851 HSIGSIVSKIDAVIVKLEIMERAKLKRREVLGRLLDGVAEDERLGRDSEI    900
+                             ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                       851 HSIGSIVSKIDAVIVKLEIMERAKLKRREVLGRLLDGVAEDERLGRDSEI    900
+
+PKD2_protein|Human|968aa 901 HREQMERLVREELERWESDDAASQISHGLGTPVGLNGQPRPRSSRPSSSQ    950
+                             ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                       901 HREQMERLVREELERWESDDAASQISHGLGTPVGLNGQPRPRSSRPSSSQ    950
+
+PKD2_protein|Human|968aa 951 STEGMEGAGGNGSSNVHV-    968
+                             |||||||||||||||||| 
+S1                       951 STEGMEGAGGNGSSNVHVX    969
+
+
+#---------------------------------------
+#---------------------------------------
